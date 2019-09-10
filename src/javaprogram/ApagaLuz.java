@@ -33,5 +33,6 @@ public class ApagaLuz {
         luz.situacao();
       
         System.out.println("Bom dia");
+        System.out.println("Boa tarde");
     }
 }
