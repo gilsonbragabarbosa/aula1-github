@@ -32,5 +32,6 @@ public class ApagaLuz {
         luz.acende();
         luz.situacao();
       
+        System.out.println("Bom dia");
     }
 }
